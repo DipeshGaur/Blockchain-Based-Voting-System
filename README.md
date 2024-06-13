@@ -46,7 +46,7 @@ A blockchain-based voting system that ensures secure, transparent, and tamper-pr
    - npm start
    
 # Usage:
-Register as a voter or admin.
-Admins can create and manage elections.
-Voters can cast their votes securely and anonymously.
-Monitor real-time election results.
+- Register as a voter or admin.
+- Admins can create and manage elections.
+- Voters can cast their votes securely and anonymously.
+- Monitor real-time election results.
